@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daily Journal",
-  description: "Log your daily activities and notes",
+  title: "Speech of Moment",
+  description: "Capture the moments and thoughts of your day.",
 };
 
 export default function RootLayout({
